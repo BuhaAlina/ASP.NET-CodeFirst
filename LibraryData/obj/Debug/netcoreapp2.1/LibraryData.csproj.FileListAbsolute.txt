@@ -1,0 +1,6 @@
+C:\Work\MVCproject\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.deps.json
+C:\Work\MVCproject\LibraryManagement\LibraryData\bin\Debug\netcoreapp2.1\LibraryData.dll
+C:\Work\MVCproject\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csprojAssemblyReference.cache
+C:\Work\MVCproject\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\Work\MVCproject\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfoInputs.cache
+C:\Work\MVCproject\LibraryManagement\LibraryData\obj\Debug\netcoreapp2.1\LibraryData.AssemblyInfo.cs
